@@ -9,7 +9,7 @@ Micro Canvas version 1.0.0
   25 April 2026
 
 <Description>
-  This software is a GUI for pattern image creation for the Magni-DOME, using for microscale 3D structure fabrication.
+  This software is a GUI for pattern image creation for the Magni-DOME, using for microscale 3D GelMA structure fabrication.
 
 <Note>
   This software is an extension of Magni-DOME.
